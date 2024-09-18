@@ -1,3 +1,6 @@
+
+![image](https://github.com/user-attachments/assets/deaba1eb-eeef-43e5-a80e-3e3d1ad22524)
+
 # Simulating cyclic numbers using combinatory and sequential logic in digital electronics. 
 
 The report is done in french (I'm not sure if i'm gonna release an english version). Although, you're still free to download the file and to play around with the circuit.
